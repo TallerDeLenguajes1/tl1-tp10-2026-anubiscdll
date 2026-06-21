@@ -1,1 +1,5 @@
-﻿Console.WriteLine("Hello, World!");
+﻿using EspacioTareas;
+
+Tareas.ObtenerChiste().Wait();
+
+
